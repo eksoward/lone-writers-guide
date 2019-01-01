@@ -1,22 +1,16 @@
-<-- https://docs.google.com/document/d/1UUQEpZB9kcQ4zJFQp_Ez33aMvgoCx_nwh5ZBvvFu0ug/edit -->
 
 ********************
 Create a Style Guide
 ********************
 
+=================================================================
 How to swim in the deep water - A lone writer’s guide to survival
 =================================================================
 
-Starting notes:
----------------
+Getting Started
+================
 
-* Create a bare bones Style Guide
-* Keep in mind that some "writers" are in fact some person who got stuck writing the docs but are really in Support, Product Engineering, or even Marketing.
-* Try to provide real examples of what not to do. For example in a section on Writing for International Audiences, you might say - Don’t use words like “may”, use “might” or “can”. You might say - Avoid contractions - especially contractions that are in future or past tense or are passive, such as “wouldn’t”, “couldn’t”, “didn’t”.  Depending on the “tone” you want to set for your docs, you might decide to use present tense contractions such as “don’t” or “can’t”.
-* Here is a link to a resource with some ideas (it is too in-depth for a bare bones guide, but might trigger some thoughts: `Style Guide Guide, a boilerplate for style guides) <http://bradfrost.github.io/style-guide-guide/>`_
-
-Hack-a-thon content:
---------------------
+when you're ready to start a company style guide, here are some general ideas about how to do it.
 
 * Choose an external style guide (Microsoft Manual of Style, Chicago, etc.)
 * Company product names, including correct trademark attribution, capitalization, and any allowed short forms.
@@ -40,7 +34,7 @@ Hack-a-thon content:
 * Consider global and ESL readers
 
   * One word, one meaning
-  * Do not use colloquialisms 
+  * Do not use colloquialisms
   * Do not use idioms
 
 * Parallelism in:
@@ -48,7 +42,7 @@ Hack-a-thon content:
   * Presenting all tasks the same way (e.g., start with a prerequisite, then numbered steps, then a postreq/what to do next)
   * Bullet lists - Within a given list, all bullets should be phrases or sentences. (Note that this Style Guide doesn’t follow this recommendation. At times, such as for internal use only, it’s not worth the time to reach for perfection.)
   * Same order of info/syntax/examples for all reference sections
-  
+
 * Basic graphics/screenshot guidelines:
 
   * Source tool (e.g., Snagit, Visio, Omnigraffle, etc.)
@@ -65,4 +59,43 @@ Hack-a-thon content:
 * Progressive disclosure
 
   * One idea per paragraph
-  * Paragraphs follow each other in a logical order 
+  * Paragraphs follow each other in a logical order
+
+  Copyedit checklist:
+  ====================
+
+  * spell check
+
+  * punctuation:
+
+  ** check for double spaces
+
+  ** if you used the following correctly:
+
+  *** .. extra period - check for and delete
+
+  *** , comma
+
+  *** ; semi-colon
+
+  *** : colon
+
+  *** () parenthesis
+
+  *** ' apostrophe
+
+  * subject/verb agreement
+
+  * numerals
+
+  * fonts and capitalization
+
+  * headings - logical and in order
+
+  * tables - are table formats consistent?
+
+  * links - correct and working
+
+  * headers and footers,  if you're using
+
+  * notes & peripheral data - footnotes, endnotes, appendixe
